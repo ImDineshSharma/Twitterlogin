@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Twitter login</string>
+    <string name="image">image</string>
+    <string name="log_in_to_twitter">Log in to Twitter</string>
+    <string name="phone_number_email_address_or_username">Phone number, email address or Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="sign_up">Sign Up</string>
+</resources>
